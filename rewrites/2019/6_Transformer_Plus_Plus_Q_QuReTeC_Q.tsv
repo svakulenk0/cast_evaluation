@@ -1,0 +1,480 @@
+conversation_id	turn_id	id	query	original
+31	1	31_1	What is throat cancer	What is throat cancer?
+31	2	31_2	Is throat cancer treatable	Is it treatable?
+31	3	31_3	Tell me about lung cancer	Tell me about lung cancer.
+31	4	31_4	What are lung cancer symptoms	What are its symptoms? 
+31	5	31_5	Can lung cancer spread to the throat cancer	Can it spread to the throat?
+31	6	31_6	What causes throat cancer	What causes throat cancer?
+31	7	31_7	What is the first sign of throat cancer	What is the first sign of it?
+31	8	31_8	Is throat cancer the same as esophageal cancer	Is it the same as esophageal cancer?
+31	9	31_9	What's the difference in lung and esophageal cancer symptoms throat	What's the difference in their symptoms?
+32	1	32_1	What are the different types of sharks	What are the different types of sharks?
+32	2	32_2	Are sharks endangered and if so what species	Are sharks endangered?  If so, which species?
+32	3	32_3	Tell me more about tiger sharks	Tell me more about tiger sharks.
+32	4	32_4	What is the largest ever tiger shark to have lived on Earth	What is the largest ever to have lived on Earth?
+32	5	32_5	What's the biggest tiger shark ever caught	What's the biggest ever caught?
+32	6	32_6	What's the biggest great whites ever caught sharks	What about for great whites?
+32	7	32_7	Tell me about biggest makos ever caught sharks	Tell me about makos.
+32	8	32_8	What are makos adaptations sharks	What are their adaptations?
+32	9	32_9	Where do makos live sharks	Where do they live?
+32	10	32_10	What do makos eat sharks	What do they eat?
+32	11	32_11	How do makos compare with tigers for being dangerous sharks	How do they compare with tigers for being dangerous?
+33	1	33_1	Tell me about neverending story film	Tell me about the Neverending Story film.
+33	2	33_2	What is neverending story film about	What is it about?
+33	3	33_3	How was neverending story film received	How was it received?
+33	4	33_4	Did neverending story film win any awards	Did it win any awards?
+33	5	33_5	Was neverending story film a book	Was it a book first?
+33	6	33_6	Who was the neverending story film author and when was it published	Who was the author and when what it published?
+33	7	33_7	What are the main themes of neverending story film	What are the main themes?
+33	8	33_8	Who are the main characters of neverending story film	Who are the main characters?
+33	9	33_9	What are the differences between neverending story film book and movies	What are the differences between the book and movies?
+33	10	33_10	Did the horse Artax really die neverending story film	Did the horse Artax really die?
+34	1	34_1	Tell me about the bronze age collapse	Tell me about the Bronze Age collapse.
+34	2	34_2	What is the evidence for bronze age collapse	What is the evidence for it?
+34	3	34_3	What are some of the possible causes of the bronze age collapse	What are some of the possible causes?
+34	4	34_4	Who were the Sea Peoples age bronze collapse	Who were the Sea Peoples?
+34	5	34_5	What was Sea Peoples role in the bronze age collapse	What was their role in it?
+34	6	34_6	What other factors led to a breakdown of trade age sea peoples bronze	What other factors led to a breakdown of trade?
+34	7	34_7	What about environmental factors that lead to led to a breakdown of trade age bronze	What about environmental factors?
+34	8	34_8	What empires survived during breakdown of trade age bronze collapse	What empires survived?
+34	9	34_9	What came after breakdown of trade age bronze collapse	What came after it?
+35	1	35_1	Tell me about the history of toilets	Tell me about the history of toilets.
+35	2	35_2	Where does the term toilet come from	Where does the term come from?
+35	3	35_3	Where and when was the first toilet invented	Where and when was the first invented?
+35	4	35_4	Why do the Brits call toilet a loo	Why do the Brits call it a loo?
+35	5	35_5	What came before toilet brits loo	What came before them?
+35	6	35_6	When did indoor versions become common toilets	When did indoor versions become common?
+35	7	35_7	How many types are there indoor toilets	How many types are there?
+35	8	35_8	Why are indoor versions so important for society toilets	Why are they so important for society?
+35	9	35_9	What is indoor versions role in the film toilets	What is their role in film?
+36	1	36_1	What is the US Electoral College	What is the US Electoral College?
+36	2	36_2	How does US Electoral College work	How does it work?
+36	3	36_3	Tell me about US Electoral College creation	Tell me about its creation.
+36	4	36_4	Why was the US Electoral College system chosen	Why was the system chosen?
+36	5	36_5	How has US Electoral College changed over time	How has it changed over time?
+36	6	36_6	What if the electors dont vote for the pledged candidate college	What if the electors don't vote for the pledged candidate?
+36	7	36_7	How has US Electoral College changed election outcomes	How has this changed election outcomes?
+36	8	36_8	Who are the Hamilton Electors and what were they trying to do college	Who are the Hamilton Electors and what were they trying to do?
+36	9	36_9	How would the US Electoral College be abolished	How would the College be abolished?
+36	10	36_10	How does the National Popular Vote Interstate Compact work electoral	How does the National Popular Vote Interstate Compact work?
+36	11	36_11	Is National Popular Vote Interstate Compact work legal	Is it legal?
+37	1	37_1	What was the Stanford Experiment	What was the Stanford Experiment?
+37	2	37_2	What did the Stanford Experiment show	What did it show?
+37	3	37_3	Tell me about the author of the Stanford Experiment	Tell me about the author of the experiment.
+37	4	37_4	Was the Stanford Experiment ethical	Was it ethical?
+37	5	37_5	What are other similar experiments stanford	What are other similar experiments?
+37	6	37_6	What happened in the Milgram experiment stanford	What happened in the Milgram experiment?
+37	7	37_7	Why was the Milgram experiment important stanford	Why was it important?
+37	8	37_8	What were the similarities and differences between the studies milgram stanford experiment	What were the similarities and differences between the studies?
+37	9	37_9	What about the BBC experiment stanford	What about the BBC experiment?
+37	10	37_10	What are the key findings of the BBC experiment	What are the key findings?
+37	11	37_11	How did the results differ bbc stanford experiment	How did the results differ?
+37	12	37_12	Why was the BBC experiment ended milgram stanford	Why was it ended?
+38	1	38_1	What is Lyme disease	What is Lyme disease?
+38	2	38_2	How do you get Lyme disease	How do you get Lyme Disease?
+38	3	38_3	How does Lyme disease make you feel	How does it make you feel?
+38	4	38_4	What happens if the Lyme disease goes untreated	What happens if it goes untreated?
+38	5	38_5	Can Lyme disease kill you	Can it kill you?
+38	6	38_6	How reliable is the test lyme disease	How reliable is the test?
+38	7	38_7	Can Lyme Disease be cured	Can it be cured?
+38	8	38_8	What is Chronic Lyme disease	What is Chronic Lyme?
+39	1	39_1	What does it mean to be a vegan	What does it mean to be a vegan?
+39	2	39_2	What is the environmental argument for vegan	What is the environmental argument for it?
+39	3	39_3	Do you need milk for strong bones vegan	Do you need milk for strong bones?
+39	4	39_4	What are other good sources calcium besides Milk	What are other good sources of calcium?
+39	5	39_5	If you dont eat any meat at all is it bad for you	If you don't eat any meat, at all, is it bad for you?
+39	6	39_6	What are good sources of vitamin b12 besides meat	What are good sources of vitamin B12?
+39	7	39_7	Does vitamin B12 help lose weight	Does it help you lose weight?
+39	8	39_8	What about vitamin B12 health effects versus being vegetarian	What about its health effects versus being vegetarian?
+39	9	39_9	How does the environmental impact compare between them vegetarian vegan	How does the environmental impact compare between them?
+40	1	40_1	What are the origins of popular music	What are the origins of popular music? 
+40	2	40_2	What are popular music characteristics	What are its characteristics?
+40	3	40_3	What technological developments enabled popular music	What technological developments enabled it?
+40	4	40_4	When and why did people start taking pop seriously music popular	When and why did people start taking pop seriously? 
+40	5	40_5	How has popular music been integrated into music education pop	How has it been integrated into music education? 
+40	6	40_6	Describe some of the influential pop bands music popular	Describe some of the influential pop bands. 
+40	7	40_7	What makes a song pop punk	What makes a song pop punk?
+40	8	40_8	What is the difference between pop punk and emo	What is the difference between it and emo?
+40	9	40_9	How did Britpop change music	How did Britpop change music?
+40	10	40_10	What are Britpop roots and what influenced it	What are its roots and what influenced it?
+41	1	41_1	Why is the drinking age in the US 21 and not 18	Why is the drinking age in the US 21 and not 18?
+41	2	41_2	What were the pros cons of drinking age in the US 21	What were the pros and cons?
+41	3	41_3	Tell me about the negative health effects of drinking	Tell me about the negative health effects of drinking.
+41	4	41_4	How does binge drinking affect development	How does binge drinking affect development?
+41	5	41_5	Can binge drinking damage mental health	Can it damage mental health?
+41	6	41_6	What are the short and long-term effects of usage on brain chemicals drinking binge	What are the short and long-term effects of usage on brain chemicals?
+41	7	41_7	Are alcoholics generally depressed	Are alcoholics generally depressed?
+41	8	41_8	What are the effects on vitamins and minerals alcoholics drinking	What are the effects on vitamins and minerals?
+41	9	41_9	Are there any benefits of vitamins and minerals alcoholics drinking binge	Are there any benefits?
+42	1	42_1	What is Chattanooga famous for	What is Chattanooga famous for?
+42	2	42_2	What is there to do in downtown Chattanooga	What is there to do in downtown Chattanooga?
+42	3	42_3	Are there tourism activities related to trucks or trains in downtown Chattanooga	Are there tourism activities related to trucks or trains?
+42	4	42_4	Are there any related to Bessie Smith chattanooga tourism	Are there any related to Bessie Smith?
+42	5	42_5	Can I visit some nearby distilleries in downtown Chattanooga	Can I visit some nearby distilleries?
+42	6	42_6	What is Rock City and why is it famous chattanooga	What is Rock City, and why is it famous?
+42	7	42_7	Are special events held in Rock City chattanooga	Are special events held there?
+42	8	42_8	What kind of food is Chattanooga known for	What kind of food is Chattanooga known for?
+43	1	43_1	What are some interesting things around Ann Arbor	What are some interesting things around Ann Arbor?
+43	2	43_2	Tell me about when ann arbor was founded	Tell me about when the city was founded. 
+43	3	43_3	How does Ann Arbor relate to the establishment of the University	How does it relate to the establishment of the University? 
+43	4	43_4	Does the Museum of Art have any special collections ann arbor	Does the Museum of Art have any special collections?
+43	5	43_5	What is the South Pond Nature Area ann arbor	What is the South Pond Nature Area?
+43	6	43_6	Are there any film festivals in South Pond Nature Area ann arbor	Are there any film festivals?
+43	7	43_7	Are there any jazz festivals in South Pond Nature Area film ann arbor	How about for jazz?
+43	8	43_8	What are popular bars or clubs where I can listen to jazz ann arbor	What are popular bars or clubs where I can listen to it?
+44	1	44_1	What causes acidic reflux in the morning	What causes acidic reflux in the morning?
+44	2	44_2	Does acidic reflux have long term side effects	Does it have long term side effects?
+44	3	44_3	What is the best OTC for acidic reflux	What is the best OTC for it?
+44	4	44_4	What are the side effects of long term PPI use	What are the side effects of long term PPI use?
+44	5	44_5	Tell me about natural treatments ppi	Tell me about natural treatments.
+44	6	44_6	What foods cause acidic reflux	What foods cause it?
+44	7	44_7	What foods reduce acidic reflux	What ones reduce it? 
+44	8	44_8	How does exercise affect acidic reflux	How does exercise affect it?
+45	1	45_1	What dog breed is the best for playing	What dog breed is the best for playing?
+45	2	45_2	What dog breed kind should I get if I’m allergic	What kind should I get if I’m allergic?
+45	3	45_3	What big and active dogs should I get if I’m allergic	How about big and active dogs?
+45	4	45_4	Do big dogs live longer than small dogs	Do big dogs live longer than small dogs?
+45	5	45_5	Will I need to put a lot of time into training	Will I need to put a lot of time into training?
+45	6	45_6	Tell me about some dog breeds that are independent and can be left home all day	Tell me about some breeds that are independent and can be left home all day.
+45	7	45_7	How much does a Irish Wolfhound weigh	How much does a Irish Wolfhound weigh?
+45	8	45_8	How much do Irish Wolfhound cost	How much do they cost?
+46	1	46_1	Why is learning a second language difficult	Why is learning a second language difficult?
+46	2	46_2	At what age is it harder to learn a second language and why	At what age is it harder and why?
+46	3	46_3	If I already know English which language would be the easiest to learn	If I already know English, which language would be the easiest to learn?
+46	4	46_4	How can I begin learning Norwegian	How can I begin learning Norwegian?
+46	5	46_5	Is Norwegian easier to learn than Spanish	Is it easier to learn than Spanish?
+46	6	46_6	What other languages are closest to Norwegian spanish	What other languages are closest to it?
+46	7	46_7	Describe some of Norwegians similarities with Danish	Describe some of its similarities with Danish.
+46	8	46_8	How did all these languages evolve danish	How did all these languages evolve?
+46	9	46_9	How is it related to Old Norse norwegian	How is it related to Old Norse?
+46	10	46_10	Are there advantages of knowing multiple languages old norwegian norse	Are there advantages of knowing multiple languages?
+47	1	47_1	Why is Boise called the city of trees	Why is Boise called the city of trees?
+47	2	47_2	How did Boise get its name trees city	How did it get its name?
+47	3	47_3	What is there to do in the summer in Boise	What is there to do in the summer?
+47	4	47_4	What are popular hiking trails in Boise	What are popular hiking trails? 
+47	5	47_5	Tell me about the Oregon Trail Reserve boise	Tell me about the Oregon Trail Reserve.
+47	6	47_6	Tell me about the history of the Boise Greenbelt	Tell me about the history of the Boise Greenbelt.
+47	7	47_7	What is the controversy around Boise Greenbelt	What is the controversy around it?
+48	1	48_1	What is the main function of a virtual machine	What is the main function of a virtual machine?
+48	2	48_2	What are virtual machine advantages	What are its advantages?
+48	3	48_3	describe some of virtual machine disadvantages	Describe some of its disadvantages.
+48	4	48_4	How do virtual machines work	How do they work?
+48	5	48_5	What are the main types of VMs machine virtual	What are the main types of VMs?
+48	6	48_6	What is VMs role in cloud computing virtual	What is their role in cloud computing?
+48	7	48_7	How is a container different from VMs virtual cloud	How is a container different?
+48	8	48_8	What is the advantage of Docker container	What is the advantage of Docker?
+48	9	48_9	How is Docker related Kurbenetes	How is it related Kurbenetes?
+49	1	49_1	How was Netflix started	How was Netflix started? 
+49	2	49_2	How did Netflix originally work	How did it originally work?
+49	3	49_3	What is Netflix relationship with Blockbuster	What is its relationship with Blockbuster?
+49	4	49_4	When did Netflix shift from DVDs to a streaming service	When did Netflix shift from DVDs to a streaming service?
+49	5	49_5	What are Netflixs other competitors blockbuster	What are its other competitors? 
+49	6	49_6	How does Netflix compare to Amazon Prime Video	How does it compare to Amazon Prime Video?
+49	7	49_7	Describe Netflixs subscriber growth over time	Describe it’s subscriber growth over time.
+49	8	49_8	How has Netflix changed the way TV is watched	How has it changed the way TV is watched?
+49	9	49_9	How has Netflix impacted society	How has it impacted society?
+49	10	49_10	How has Netflix impacted dating and relationships	How about dating and relationships? 
+50	1	50_1	What was the first artificial satellite	What was the first artificial satellite?
+50	2	50_2	What are the types of satellite orbits artificial	What are the types of orbits?
+50	3	50_3	What are the important classes of satellite	What are the important classes of satellite?
+50	4	50_4	How do navigation systems work satellite	How do navigation systems work?
+50	5	50_5	What is the Galileo system and why is it important navigation	What is the Galileo system and why is it important?
+50	6	50_6	Why did Galileo system create tension with the US satellite	Why did it create tension with the US?
+50	7	50_7	What are Cubesats galileo	What are Cubesats?
+50	8	50_8	What are Cubesats advantages	What are their advantages? 
+50	9	50_9	What are Cubesats used for satellite	What are they used for?
+50	10	50_10	What is Cubesats future satellite	What is their future?
+51	1	51_1	How do I save for a childs college education in the US	How do I save for a child’s college education in the US?
+51	2	51_2	What is a 529 plan	What is a 529 plan?
+51	3	51_3	How does 529 plan work	How does it work?
+51	4	51_4	What are main advantages of 529 plan	What are the main advantages?
+51	5	51_5	What about disadvantages of 529 plan	What about disadvantages?
+51	6	51_6	How long have 529 plans been around	How long have they been around?
+51	7	51_7	What are types of 529 plans	What are the types of plans?
+51	8	51_8	What can the funds be used for 529	What can the funds be used for?
+51	9	51_9	What happens if 529 plans are not used	What happens if it’s not used?
+51	10	51_10	How does ESA compare to 529 plans	How does a ESA compare?
+52	1	52_1	Describe the Afra tanker scale	Describe the Afra tanker scale.
+52	2	52_2	Why was Afra tanker scale developed	Why was it developed?
+52	3	52_3	What are supertankers scale afra tanker	What are supertankers?
+52	4	52_4	describe supertankers invention afra tanker	Describe their invention.
+52	5	52_5	What are the important factors led to supertankers development afra tanker	What are the important factors led to their development?
+52	6	52_6	What was the role of the Six-Day War in supertankers	What was the role of the Six-Day War?
+52	7	52_7	How many barrels can a VLCC ship carry	How many barrels can a VLCC ship carry?
+52	8	52_8	What is the largest in the world ship vlcc	What is the largest in the world?
+52	9	52_9	What new problem did increased scale create afra tanker	What new problem did increased scale create?
+52	10	52_10	Describe crude oil washing afra	Describe crude oil washing.
+53	1	53_1	Is Red Bull bad for you	Is Red Bull bad for you?
+53	2	53_2	Can Red Bull kill you	Can it kill you?
+53	3	53_3	How much Red Bull can you drink in a day	How much can you drink in a day?
+53	4	53_4	What is taurine	What is taurine?
+53	5	53_5	What are taurines health effects	What are its health effects?
+53	6	53_6	In general what are the effects of consuming energy drinks taurine	In general, what are the effects of consuming energy drinks?
+53	7	53_7	Why are energy drinks harmful when mixed with alcohol taurine	Why are they harmful when mixed with alcohol?
+53	8	53_8	What is the argument for energy drinks age restriction to kids bull	What is the argument for their age restriction to kids?
+53	9	53_9	Where are energy drinks banned to minors red bull	Where are they banned to minors?
+54	1	54_1	What is worth seeing in Washington D.C	What is worth seeing in Washington D.C.?
+54	2	54_2	Which Smithsonian museums are the most popular washington	Which Smithsonian museums are the most popular?
+54	3	54_3	Why is the National Air and Space Museum important smithsonian washington	Why is the National Air and Space Museum important?
+54	4	54_4	Is the Spy Museum free national air washington space	Is the Spy Museum free?
+54	5	54_5	What is there to do in DC after the museums close	What is there to do in DC after the museums close?
+54	6	54_6	What is the best time to visit the reflecting pools dc washington	What is the best time to visit the reflecting pools?
+54	7	54_7	Are there any famous foods in Washington D.C pools reflecting	Are there any famous foods?
+54	8	54_8	What is a DC half smoke	What is a DC half smoke?
+54	9	54_9	Tell me about DC half smoke history	Tell me about its history.
+55	1	55_1	Describe the oceanic crust	Describe the oceanic crust.
+55	2	55_2	What are the main layers of oceanic crust	What are the main layers?
+55	3	55_3	How does oceanic crust differ from the continental crust	How does it differ from the continental crust?
+55	4	55_4	Which of oceanic crust and continental crust is younger and why	Which is younger and why?
+55	5	55_5	Where is the youngest oceanic found crust	Where is the youngest oceanic found?
+55	6	55_6	Where is the oldest oceanic found crust	What about the oldest?
+55	7	55_7	What is seafloor spreading oceanic	What is seafloor spreading?
+55	8	55_8	What is seafloor spreading significance	What is its significance?
+55	9	55_9	How is ocean crust formed	How is ocean crust formed?
+55	10	55_10	Is ocean crust being recycled	Is it being recycled?
+56	1	56_1	What is Darwins theory in a nutshell	What is Darwin’s theory in a nutshell?
+56	2	56_2	how was Darwins theory developed	How was it developed? 
+56	3	56_3	How do sexual and asexual reproduction affect Darwins theory	How do sexual and asexual reproduction affect it?
+56	4	56_4	How can fossils be used to understand Darwins theory	How can fossils be used to understand it?
+56	5	56_5	What is modern evidence for Darwins theory	What is modern evidence for it? 
+56	6	56_6	What is Darwins theory impact on modern biology	What is the impact on modern biology?
+56	7	56_7	Compare and contrast microevolution and macroevolution darwin theory	Compare and contrast microevolution and macroevolution.
+56	8	56_8	What is the relationship to speciation darwin theory	What is the relationship to speciation?
+57	1	57_1	How can you tell if someone is suffering from depression	How can you tell if someone is suffering from depression?
+57	2	57_2	What are common types of depression	What are common types?
+57	3	57_3	What causes depression	What causes it?
+57	4	57_4	What is role of brain chemicals in depression	What is the role of brain chemicals?
+57	5	57_5	Does a lack of sunlight cause depression	Does a lack of sunlight cause it?
+57	6	57_6	How can you treat SAD depression	How can you treat SAD?
+57	7	57_7	What is the role of melatonin sad depression	What is the role of melatonin?
+57	8	57_8	How are anxiety and depression related	How are anxiety and depression related?
+57	9	57_9	What treatments exist for depression	What treatments exist for depression?
+57	10	57_10	What is CBT and how does it work	What is CBT and how does it work?
+58	1	58_1	What is a real time database	What is a real-time database?
+58	2	58_2	How does real time database differ from traditional ones	How does it differ from traditional ones?
+58	3	58_3	What are the advantages of real time processing database	What are the advantages of real-time processing?
+58	4	58_4	What are examples of important ones time processing real database	What are examples of important ones?
+58	5	58_5	What are important applications of real time databases processing	What are important applications?
+58	6	58_6	What are important cloud options database	What are important cloud options?
+58	7	58_7	Tell me about Firebase DB database	Tell me about the Firebase DB.
+58	8	58_8	how is firebase db used in mobile apps database	How is it used in mobile apps?
+59	1	59_1	Which weekend sports have the most injuries	Which weekend sports have the most injuries?
+59	2	59_2	What are the most common types of injuries	What are the most common types of injuries? 
+59	3	59_3	What is ACL	What is the ACL?
+59	4	59_4	What is an injury for ACL	What is an injury for it?
+59	5	59_5	Tell me about the RICE method acl	Tell me about the RICE method.
+59	6	59_6	Is there disagreement about RICE method	Is there disagreement about it?
+59	7	59_7	What is arnica used for rice method	What is arnica used for?
+59	8	59_8	What are some ways to avoid injury acl arnica	What are some ways to avoid injury?
+60	1	60_1	Tell me about the benefits of yoga	Tell me about the benefits of yoga.
+60	2	60_2	Does yoga help in reducing stress	Does it help in reducing stress?
+60	3	60_3	What are some of the main types of yoga	What are some of the main types?
+60	4	60_4	What yoga type is best for losing weight	What type is best for losing weight?
+60	5	60_5	What are common poses in Bikram yoga	What are common poses in Bikram yoga?
+60	6	60_6	Why is mindful breathing important bikram yoga	Why is mindful breathing important?
+60	7	60_7	Does mindful breathing help relieve asthma bikram yoga	Does it help relieve asthma?
+61	1	61_1	Who are The Avengers	Who are The Avengers?
+61	2	61_2	Tell me about Avengers first appearance	Tell me about their first appearance.
+61	3	61_3	Who is the most powerful Avengers and why	Who is the most powerful and why? 
+61	4	61_4	What is the relationship of Spider Man to the Avengers team	What is the relationship of Spider-Man to the team?
+61	5	61_5	Why is Batman not a member of Avengers	Why is Batman not a member? 
+61	6	61_6	What is an important team in the DC universe avengers	What is an important team in the DC universe? 
+61	7	61_7	Tell me about the origins of the Justice League	Tell me about the origins of the Justice League.
+61	8	61_8	Who are the important members of Justice League	Who are the important members?
+61	9	61_9	Which team came first avengers league justice	Which team came first?
+62	1	62_1	What is the Surrealism movement in art	What is the Surrealism movement in art?
+62	2	62_2	What are surrealism movement characteristics	What are its characteristics?
+62	3	62_3	Tell me about surrealism movement founding	Tell me about its founding.
+62	4	62_4	Tell me about the series of manifestos surrealism movement	Tell me about the series of manifestos.
+62	5	62_5	How is Surrealism movement different from Dada	How is it different from Dada?
+62	6	62_6	What is surrealism movement importance	What is its importance?
+62	7	62_7	Who are the most famous artists of Surrealism movement	Who are the most famous artists? 
+62	8	62_8	Why did dali choose surrealism	Why did Dali choose surrealism?
+62	9	62_9	What are dalis most iconic works	What are his most iconic works?
+62	10	62_10	Is surrealism movement art still used today dali	Is it still used today?
+62	11	62_11	What has surrealism movement impact been on other fields	What has its impact been on other fields?
+63	1	63_1	What is blockchain	What is blockchain?
+63	2	63_2	What problem does blockchain solve	What problem does it solve?
+63	3	63_3	How does blockchain work	How does it work?
+63	4	63_4	What are the types of blockchain networks	What are the types of networks?
+63	5	63_5	Tell me about blockchain invention	Tell me about its invention.
+63	6	63_6	How is blockchain related to cryptocurrencies	How is it related to cryptocurrencies?
+63	7	63_7	How is Bitcoin generated blockchain	How is Bitcoin generated? 
+63	8	63_8	How secure is blockchain	How secure is blockchain?
+63	9	63_9	What are blockchains other uses in business	What are its other uses in business?
+63	10	63_10	What are the blockchains implications for society	What are the implications for society?
+64	1	64_1	What are the types of pork ribs	What are the types of pork ribs?
+64	2	64_2	What are baby backs	What are baby backs?
+64	3	64_3	What are the differences with spareribs	What are the differences with spareribs?
+64	4	64_4	What are ways to cook spareribs pork ribs	What are ways to cook them? 
+64	5	64_5	What are ways to cook spareribs on the bbq pork ribs	How about on the bbq?
+64	6	64_6	Describe the 321 method	Describe the 321 method.
+64	7	64_7	How long do spareribs take to smoke pork ribs	How long do they take to smoke?
+64	8	64_8	How do you know when spareribs are done pork ribs	How do you know when they are done?
+64	9	64_9	What is in a typical rub	What is in a typical rub?
+64	10	64_10	Whats the best style of sauce for spareribs pork ribs	What’s the best style of sauce for them? 
+64	11	64_11	What is in Kansas City style sauce pork ribs	What’s in Kansas City style sauce?
+65	1	65_1	What is nominal gdp	What is nominal GDP?
+65	2	65_2	Why is nominal gdp not a good measure	Why is it not a good measure?
+65	3	65_3	What is the difference with real gdp nominal	What is the difference with real?
+65	4	65_4	How is nominal gdp related to gross national income	How is it related to gross national income?
+65	5	65_5	What is the meaning of GNI gdp	What is the meaning of GNI?
+65	6	65_6	How is inflation affected by high GDP growth	How is inflation affected by high GDP growth? 
+65	7	65_7	What is the relationship between inflation and unemployment	What is the relationship between inflation and unemployment?
+65	8	65_8	What is frictional unemployment and why is it important	What is frictional unemployment and why is it important?
+65	9	65_9	Is frictional unemployment bad for the economy inflation	Is it bad for the economy?
+65	10	65_10	How can the government reduce frictional unemployment level gdp inflation	How can the government reduce its level?
+66	1	66_1	tell me about lavender plants	Tell me about lavender plants.
+66	2	66_2	What are the different types of lavender plants	What are the different types?
+66	3	66_3	What places are famous for lavender plants	What places are famous for them?
+66	4	66_4	Are lavender plants safe to eat	Are they safe to eat?
+66	5	66_5	What lavender plant variety is best for cooking	What variety is best for cooking?
+66	6	66_6	How is lavender plant used	How is it used? 
+66	7	66_7	What is lavender plant good with	What is it good with?
+66	8	66_8	What are the health benefits of lavender plant oil	What are the health benefits of its oil?
+66	9	66_9	Are there any side effects of lavender plant	Are there any side effects?
+67	1	67_1	Why is blood red	Why is blood red?
+67	2	67_2	What are red blood cells	What are red blood cells?
+67	3	67_3	How are red blood cells created	How are they created?
+67	4	67_4	How is oxygen transported blood red cells	How is oxygen transported?
+67	5	67_5	What is anemia	What is anemia?
+67	6	67_6	What are symptoms of anemia	What are the symptoms?
+67	7	67_7	Can anemia go away	Can it go away?
+67	8	67_8	What are anemia possible causes	What are its possible causes?
+67	9	67_9	How is anemia treated	How is it treated?
+67	10	67_10	What foods contain high levels of iron anemia	What foods contain high levels of iron?
+67	11	67_11	What improves absorption of iron blood	What improves absorption?
+68	1	68_1	What is cuisine is Emilia-Romagna famous for	What is cuisine is Emilia-Romagna famous for?
+68	2	68_2	Tell me about cooking schools and classes romagna emilia	Tell me about cooking schools and classes.
+68	3	68_3	What are famous foods from the region Emilia-Romagna romagna emilia	What are famous foods from the region?
+68	4	68_4	Describe the traditional process for making balsamic vinegar romagna emilia	Describe the traditional process for making balsamic vinegar?
+68	5	68_5	What is mortadella and where is it from	What is mortadella and where is it from?
+68	6	68_6	What is the difference between Bologna and mortadella	What’s the difference with Bologna?
+68	7	68_7	Where was Parmesan cheese created bologna romagna emilia	Where was Parmesan cheese created?
+68	8	68_8	What is done with the whey after production romagna emilia cheese	What is done with the whey after production?
+68	9	68_9	What are typical pasta dishes romagna emilia	What are typical pasta dishes?
+68	10	68_10	What is the history of tagliatelle al ragu bolognese romagna	What is the history of tagliatelle al ragu bolognese?
+68	11	68_11	What are history tagliatelle al ragu bolognese common variations	What are its common variations?
+69	1	69_1	How do you sleep after jet lag	How do you sleep after jet lag?
+69	2	69_2	Does melatonin help with jet lag sleep	Does melatonin help?
+69	3	69_3	How was melatonin discovered	How was it discovered?
+69	4	69_4	What are good sources in food for melatonin	What are good sources in food?
+69	5	69_5	Is melatonin bad for you	Is melatonin bad for you?
+69	6	69_6	What are side effects of melatonin	What are the side effects?
+69	7	69_7	Why does melatonin require a prescription in the UK	Why does it require a prescription in the UK?
+69	8	69_8	How can I increase my melatonin levels naturally	How can I increase my levels naturally?
+69	9	69_9	Is melatonin effective for treating insomnia	Is it effective for treating insomnia?
+69	10	69_10	Is melatonin effective for treating anxiety	How about for anxiety?
+70	1	70_1	What is solar energy	What is solar energy?
+70	2	70_2	What are solar energy main uses	What are its main uses?
+70	3	70_3	Why is solar energy important	Why is it important?
+70	4	70_4	Whar are advantages of solar energy	What are advantages of solar energy?
+70	5	70_5	What is the cost of solar power	What is the cost of solar power?
+70	6	70_6	How is solar power being used in rural africa energy	How is being used in rural Africa?
+70	7	70_7	Tell me more about solar cookers work energy	Tell me more about solar cookers work.
+70	8	70_8	How is solar used in architecture	How is solar used in architecture?
+70	9	70_9	What are important projects solar	What are important projects? 
+70	10	70_10	Can solar energy be used to power cars	Can it be used to power cars?
+71	1	71_1	What are mammals	What are mammals?
+71	2	71_2	What are mammals key characteristics	What are their key characteristics?
+71	3	71_3	How many legs do mammals have	How many legs do they have?
+71	4	71_4	What is the largest mammal on land legs	What is the largest one on land?
+71	5	71_5	What is largest mammal in the world	What is the largest in the world?
+71	6	71_6	What is largest mammal in UK	What about in the UK?
+71	7	71_7	What is the largest mammal to ever walk the earth	What about the largest to ever walk the earth?
+71	8	71_8	tell me about blue whales	Tell me about Blue whales. 
+71	9	71_9	How much do blue whales weigh	How much do they weigh?
+71	10	71_10	Where do blue whales live	Where do they live?
+71	11	71_11	What do blue whales eat	What do they eat?
+71	12	71_12	Where can we see blue whales	Where can we see them?
+72	1	72_1	What do spanish people do on christmas day	What do Spanish people do on Christmas day?
+72	2	72_2	What do spanish people eat for dinner christmas	What do they eat for dinner?
+72	3	72_3	What do spanish people eat on christmas day	How about on Christmas eve?
+72	4	72_4	What is christmas lottery	What is the Christmas Lottery?
+72	5	72_5	How does Christmas Lottery drawing work	How does the drawing work?
+72	6	72_6	How are tickets sold christmas lottery	How are the tickets sold?
+72	7	72_7	What is Tió de Nadal	What is Tió de Nadal?
+72	8	72_8	How did Tió de Nadal tradition start christmas tio	How did this tradition start?
+72	9	72_9	How do Tió de Nadal celebrate Three Kings Day spanish christmas	How do they celebrate Three Kings Day?
+72	10	72_10	What cakes are traditional for Three Kings Day spanish christmas	What cakes are traditional?
+73	1	73_1	Who is the most successful pirate of all time	Who is the most successful pirate of all time?
+73	2	73_2	Who is famous female pirate of all time	Who is the most famous female?
+73	3	73_3	Tell me more about Ching Shih	Tell me more about Ching Shih.
+73	4	73_4	What were Ching Shih code of laws	What were her code of laws?
+73	5	73_5	How did ching shih die	How did she die?
+73	6	73_6	who was anne bonny shih ching	Who was Anne Bonny?
+73	7	73_7	what was anne bonny famous for ching	What was she famous for?
+73	8	73_8	who was anne bonny married to shih ching	Who was she married to?
+73	9	73_9	how did Calico Jack die shih ching	How did Calico Jack die?
+73	10	73_10	what happened to anne bonny	What happened to Anne?
+74	1	74_1	what are pros and cons of electric cars	What are the pros and cons of electric cars?
+74	2	74_2	Tell me more about Tesla cars electric	Tell me more about Tesla.
+74	3	74_3	Why did Elon Musk start Tesla cars electric	Why did Elon Musk start it?
+74	4	74_4	what models are available in Tesla cars electric	What models are available?
+74	5	74_5	what is best selling model in Tesla cars electric	What is the best selling?
+74	6	74_6	what is unique about Tesla model 3 cars electric	What is unique about the Model 3?
+74	7	74_7	what are the safety features of Tesla cars electric model	What are the safety features?
+74	8	74_8	Why is Tesla building Gigafactories	Why is it building Gigafactories?
+74	9	74_9	what makes Tesla batteries unique electric	What makes the batteries unique?
+74	10	74_10	How long can they Tesla batteries last cars electric	How long can they last?
+74	11	74_11	Tell me more about autopilot in Tesla model 3	Tell me more about autopilot.
+74	12	74_12	Does Tesla model 3 support full self-driving cars autopilot	Does it support full self-driving?
+75	1	75_1	Why do turkey and Turkey share the same name	Why do turkey and Turkey share the same name?
+75	2	75_2	Where are turkeys from	Where are turkeys from?
+75	3	75_3	What was turkeys importance in native cultures	What was their importance in native cultures?
+75	4	75_4	When and how were turkeys domesticated	When and how were they domesticated?
+75	5	75_5	Can turkeys fly	Can they fly?
+75	6	75_6	Why did Ben Franklin want turkeys to be the national symbol	Why did Ben Franklin want it to be the national symbol?
+75	7	75_7	How did ben franklin cook turkeys	How did he cook it?
+75	8	75_8	Why is turkeys eaten on Thanksgiving	Why is it eaten on Thanksgiving?
+75	9	75_9	How did turkeys become traditional for Christmas dinner in Britain	How did it become traditional for Christmas dinner in Britain? 
+75	10	75_10	When did turkeys become popular	When did they become popular?
+76	1	76_1	What are important literary elements	What are important literary elements?
+76	2	76_2	What is difference important literary elements and literary devices	What is the difference between them and literary devices?
+76	3	76_3	What is genre literary	What is a genre?
+76	4	76_4	What are the most important genres literary	What are the most important ones?
+76	5	76_5	What is a trope literary	What is a trope?
+76	6	76_6	What are important examples in fantasy	What are important examples in fantasy?
+76	7	76_7	What is the definition of allegory	What is the definition of allegory?
+76	8	76_8	What are some important modern uses of allegory	What are some important modern uses?
+76	9	76_9	What are the different types of foreshadowing	What are the different types of foreshadowing?
+76	10	76_10	What is an example of foreshadowing fantasy	What is an example?
+77	1	77_1	What's the difference between soup and stew	What's the difference between soup and stew?
+77	2	77_2	Is chilli a stew	Is chilli a stew?
+77	3	77_3	Is goulash a stew	How about goulash?
+77	4	77_4	What are popular stews in France	What are popular ones in France?
+77	5	77_5	How is cassoulet made	How is cassoulet made?
+77	6	77_6	Tell me about feijoada and its significance	Tell me about feijoada and its significance.
+77	7	77_7	How is feijoada similar or different from cassoulet	How is it similar or different from cassoulet?
+77	8	77_8	Tell about Bigos stew cassoulet	Tell about Bigos stew.
+77	9	77_9	Why is Bigos stew important cassoulet	Why is it important?
+77	10	77_10	What is the history of Irish stew	What is the history of Irish stew?
+78	1	78_1	What is the keto diet	What is the keto diet?
+78	2	78_2	Why was keto diet original developed	Why was it original developed?
+78	3	78_3	What is ketosis diet	What is ketosis?
+78	4	78_4	What is paleo ketosis	What is paleo?
+78	5	78_5	What do keto and paleo diets have in common	What do they have in common?
+78	6	78_6	How are keto and paleo diets different	How are they different?
+78	7	78_7	What is intermittent fasting	What is intermittent fasting?
+78	8	78_8	How is intermittent fasting related to keto diet	How is it related to keto?
+78	9	78_9	What is the 16/8 method intermittent fasting	What is the 16/8 method?
+78	10	78_10	What is the best for weight loss	What is the best for weight loss?
+79	1	79_1	What is taught in sociology	What is taught in sociology?
+79	2	79_2	What is the main contribution of Auguste Comte	What is the main contribution of Auguste Comte?
+79	3	79_3	What is the role of positivism in the contribution of Auguste Comte sociology	What is the role of positivism in it?
+79	4	79_4	What is Herbert Spencer known for sociology	What is Herbert Spencer known for?
+79	5	79_5	How is Herbert Spencer work related to Comte auguste	How is his work related to Comte?
+79	6	79_6	What is the functionalist theory auguste	What is the functionalist theory?
+79	7	79_7	What is functionalist theory main criticism	What is its main criticism?
+79	8	79_8	How does functionalist theory compare to conflict theory	How does it compare to conflict theory?
+79	9	79_9	What are modern examples of conflict theory	What are modern examples of conflict theory?
+80	1	80_1	What were the purposes of the Lewis and Clark expedition	What were the purposes of the Lewis and Clark expedition?
+80	2	80_2	What were important plants and animals Lewis and Clark discovered expedition	What were important plants and animals they discovered?
+80	3	80_3	What were diplomatic objectives of Lewis and Clark expedition	What were the diplomatic objectives?
+80	4	80_4	What were the Native American tribes that Lewis and Clark encountered expedition	What were the Native American tribes that they encountered?
+80	5	80_5	How did Sacagawea help Lewis and Clark native tribes american expedition	How did Sacagawea help them?
+80	6	80_6	Did Lewis and Clark find the Northwest Passage expedition	Did they find the Northwest Passage?
+80	7	80_7	What was the purpose of Fort Mandan	What was the purpose of Fort Mandan?
+80	8	80_8	How did Lewis and Clark spend the next winter expedition	How did they spend the next winter?
+80	9	80_9	What happened to Fort Clatsop expedition clark lewis	What happened to Fort Clatsop?
+80	10	80_10	What was the impact of the expedition clark lewis	What was the impact of the expedition?
