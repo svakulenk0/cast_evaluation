@@ -5,7 +5,7 @@ Supplementary materials for "A Comparison of Question Rewriting Methods" @ ECIR'
 
 ## Citation
 
-Please cite the following if you found QReCC dataset, our [paper](https://arxiv.org/abs/2010.04898), or these resources useful.
+Please cite the following if you found our paper or these resources useful.
 
 ```bibtex
 @article{vakulenko-2021-comparison,
