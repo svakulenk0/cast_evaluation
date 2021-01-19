@@ -1,6 +1,6 @@
 # cast_evaluation
 
-Supplementary materials for "A Comparison of Question Rewriting Methods" @ ECIR'21.
+Supplementary materials for "A Comparison of Question Rewriting Methods for Conversational Passage Retrieval", published at ECIR'21.
 
 
 ## Citation
