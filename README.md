@@ -8,7 +8,7 @@ Supplementary materials for "A Comparison of Question Rewriting Methods" @ ECIR'
 Please cite the following if you found our paper or these resources useful.
 
 ```bibtex
-@article{vakulenko-2021-comparison,
+@inproceedings{vakulenko-2021-comparison,
   author    = {Svitlana Vakulenko and
                Nikos Voskarides and
                Zhucheng Tu and
